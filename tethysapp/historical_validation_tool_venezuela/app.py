@@ -8,7 +8,7 @@ class HistoricalValidationToolVenezuela(TethysAppBase):
 
     name = 'Historical Validation Tool Venezuela'
     index = 'historical_validation_tool_venezuela:home'
-    icon = 'historical_validation_tool_venezuela/images/icon.gif'
+    icon = 'historical_validation_tool_venezuela/images/historic_validation_venezuela_logo.png'
     package = 'historical_validation_tool_venezuela'
     root_url = 'historical-validation-tool-venezuela'
     color = '#5e2129'
