@@ -13,7 +13,7 @@ class HistoricalValidationToolVenezuela(TethysAppBase):
     root_url = 'historical-validation-tool-venezuela'
     color = '#5e2129'
     description = 'This app evaluates the accuracy for the historical streamflow values obtained from Streamflow Prediction Tool in Colombia.'
-    tags = '"Hydrology", "Time Series"'
+    tags = '"Hydrology", "Time Series", "Bias Correction", "Hydrostats", "GEOGloWS", "Historical Validation Tool"'
     enable_feedback = False
     feedback_emails = []
 
